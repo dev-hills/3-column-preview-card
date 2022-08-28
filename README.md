@@ -28,8 +28,8 @@ Click the link above to see a screenshot of the project
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dev-hills/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Github Repository Link](https://github.com/dev-hills/3-column-preview-card)
+- Live Site URL: [Live Site](https://3-column-preview-card-hills.netlify.app)
 
 
 
